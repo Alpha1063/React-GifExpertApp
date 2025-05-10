@@ -2,7 +2,7 @@
   "files": {
     "main.css": "./static/css/main.49d2cfff.css",
     "main.js": "./static/js/main.d28cd888.js",
-    "index.html": "/index.html",
+    "index.html": "./index.html",
     "main.49d2cfff.css.map": "./static/css/main.49d2cfff.css.map",
     "main.d28cd888.js.map": "./static/js/main.d28cd888.js.map"
   },
